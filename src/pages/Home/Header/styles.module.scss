@@ -1,0 +1,23 @@
+.Header {
+  background: #e96e50;
+  background-image: radial-gradient(#e28d50, #e96e50);
+
+  .HeaderInner {
+    max-width: 480px;
+    padding: 60px 20px;
+  }
+}
+
+.SearchLabel {
+  margin: 0 0 10px;
+  padding: 0;
+  font-weight: 400;
+  font-size: 32px;
+  color: #fff;
+  text-shadow: 0 0 5px #e4431b;
+}
+
+.SearchbarInput {
+  box-shadow: 0 0 20px #e96e50;
+  border-radius: 2px;
+}

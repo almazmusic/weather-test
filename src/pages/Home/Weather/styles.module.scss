@@ -1,0 +1,22 @@
+.Weather {
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.WeatherInfo {
+  .Temp {
+    font-size: 72px;
+  }
+  .City {
+    margin: .3em 0;
+    font-weight: 400;
+    font-size: 72px;
+  }
+}
+
+.WeatherLoading {
+  font-size: 24px;
+}

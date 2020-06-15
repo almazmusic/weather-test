@@ -1,0 +1,22 @@
+html, 
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Nunito Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+  line-height: 1.428;
+  color: #313d4c;
+}
+
+:root {
+  --weatherLow: #00ffff; // -10 degrees
+  --weatherMid: #fff700; // +10 degrees
+  --weatherHi:  #ff8c00; // +30+ degrees
+}
+
