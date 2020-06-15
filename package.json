@@ -1,7 +1,14 @@
 {
-  "name": "molfar",
+  "name": "weather-app",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "http://almazmusic.github.io/weather-test",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+  },
   "dependencies": {
     "@reduxjs/toolkit": "^1.3.6",
     "@types/node": "^13.13.5",
@@ -21,12 +28,6 @@
     "react-select": "^3.1.0",
     "redux-thunk": "^2.3.0",
     "typescript": "^3.8.3"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
