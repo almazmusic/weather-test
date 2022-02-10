@@ -20,7 +20,7 @@
     "classnames": "^2.2.6",
     "color-interpolate": "^1.0.5",
     "eslint-plugin-react-hooks": "^4.0.4",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "prettier": "^2.0.5",
     "react": "^16.13.1",
     "react-app-polyfill": "^1.0.6",
